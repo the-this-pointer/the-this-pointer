@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/the-this-pointer">
+<img src="https://github.com/the-this-pointer/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/the-this-pointer/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
